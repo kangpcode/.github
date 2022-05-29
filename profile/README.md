@@ -3,7 +3,7 @@ dhaffnavyz/dhaffnavyz is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+profilnyeDHAFF OFFICIAL" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=WELCOME+TO+DHAFF+OFFICIAL" />
 </p>
 <details>
     <summary>Emmmm...<b></b></summary><br/>
