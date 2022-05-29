@@ -3,13 +3,13 @@ dhaffnavyz/dhaffnavyz is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+Profilnye" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+profilnyeDHAFF OFFICIAL" />
 </p>
 <details>
     <summary>Emmmm...<b></b></summary><br/>
-<p align='center'><a href="https://api.daily.dev/get?r=Profilnye"><img src="https://telegra.ph/file/a47a6f1b0af3540c8ac60.jpg?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=DAFF OFFICIAL"><img src="https://telegra.ph/file/a47a6f1b0af3540c8ac60.jpg?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
-![dhaffnavyz's card name](https://cardivo.vercel.app/api?name=Tahalu%20Indonesia&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/a47a6f1b0af3540c8ac60.jpg?v=4&backgroundColor=%23ecf0f1&instagram=cyber_mrlinkerrorsystemoffical&linkedin=I%20Blackhat%20Indo%20Nesia%20%20Indonesia&github=dhaffnavyz&twitter=Profilnye&pattern=leaf&colorPattern=%23eaeaea)
+![dhaffnavyz's card name](https://cardivo.vercel.app/api?name=DHAFF%20OFFICIAL&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/a47a6f1b0af3540c8ac60.jpg?v=4&backgroundColor=%23ecf0f1&instagram=cyber_mrlinkerrorsystemoffical&linkedin=I%20Blackhat%20Indo%20Nesia%20%20Indonesia&github=dhaffnavyz&twitter=Dhaffofficial&pattern=leaf&colorPattern=%23eaeaea)
 
 ![Metrics](https://metrics.lecoq.io/Profilnye?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
