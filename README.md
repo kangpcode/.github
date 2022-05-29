@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <details>
     <summary>Emmmm...<b></b></summary><br/>
-<p align='center'><a href="https://api.daily.dev/get?r=.github"><img src="https://telegra.ph/file/90678d9406be7907620e7.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=.github"><img src="https://telegra.ph/Thumb-05-28-7?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
 ![dhaffnavyz's card name](https://cardivo.vercel.app/api?name=DHAFF%20OFFICIAL&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/3f8b2987e6b010c467dd6.png?v=4&backgroundColor=%23ecf0f1&instagram=cyber_mrlinkerrorsystemoffical&linkedin=I%20Blackhat%20Indo%20Nesia%20%20Indonesia&github=dhaffnavyz&twitter=.github&pattern=leaf&colorPattern=%23eaeaea)
 
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
 :star: Here are some projects that I'm working on:
-<p align='center'><a href="https://api.daily.dev/get?r=.github"><img src="https://telegra.ph/file/1262431c0967ddfb566b2.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=.github"><img src="https://telegra.ph/Toodd-05-29?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
 ## Start
 <!--START_SECTION:waka-->
