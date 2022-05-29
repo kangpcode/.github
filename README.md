@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary><b>CLICK HERE 😝</b></summary><br/>
 <h1  align='center'> WELCOME TO DHAFF OFFICIAL 🗿 </h1>
-<p align='center'><a href="https://api.daily.dev/get?r=Profilnye"><img src="https://api.daily.dev/devcards/f863db015cc04215878268bea4ef43f5.png?r=82s" width="150" alt="TURU-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=Profilnye"><img src="https://telegra.ph/file/a47a6f1b0af3540c8ac60.jpg?r=82s" width="150" alt="TURU-Team BOT's Dev Card"/></a></p>
 <p align='center'><a href="https://www.dmca.com/Protection/Status.aspx?ID=090f6134-5e5e-46fd-a879-b366b9a65060&refurl=https://github.com/DHAFF OFFICIAL" target="_blank" title="Check Protection Status" class="dmca-badge"> <img src ="https://telegra.ph/file/1f7a3fc545df0a0182620.jpg?st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D" alt="DMCA.com for Github" /></a></p>
 <a href="https://api.daily.dev/get?r=Profilnye"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'>
