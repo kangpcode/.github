@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://api.daily.dev/get?r=Profilnye"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Profilnye"><img height="200" src="https://raw.githubusercontent.com/dhaffnavyz/dhaffnavyz/main/root.svg"></a>
-<p align='center'>  I'm dhaffnavyz (21 y.o) ! :sunglasses: </p>
+<p align='center'>  I'm dhaffnavyz (16 y.o) ! :sunglasses: </p>
 <img width="800px" src="https://raw.githubusercontent.com/dhaffnavyz/dhaffnavyz/main/Black%20Purple%20and%20Cyan%20Neon%20Noir%20%20Vaporwave%20Sports%20YouTube%20Outro.gif" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 </p>
